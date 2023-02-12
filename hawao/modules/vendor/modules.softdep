@@ -1,0 +1,2 @@
+# Soft dependencies extracted from modules themselves.
+softdep leds_indicator_pwm pre: pwm-qti-lpg
