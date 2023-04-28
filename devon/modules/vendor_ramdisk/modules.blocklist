@@ -1,0 +1,22 @@
+# Copyright (c) 2019-2020, The Linux Foundation. All rights reserved.
+#
+# Motorola product module block list
+#
+
+blocklist mmi_qc3p_wt6670f.ko
+blocklist mmi_annotate.ko
+blocklist mmi_info.ko
+blocklist sgm4154x_charger.ko
+blocklist rt9471_charger.ko
+blocklist mmi_charger.ko
+blocklist mmi_discrete_charger_class.ko
+blocklist mmi_discrete_charger.ko
+blocklist qpnp_adaptive_charge.ko
+blocklist tcpc_class.ko
+blocklist cw2217b_fg_mmi.ko
+blocklist sm5602_fg_mmi.ko
+blocklist adapter_class.ko
+blocklist bq2597x_mmi_iio.ko
+blocklist mmi_discrete_turbo_charger.ko
+blocklist tcpc_sgm7220.ko
+blocklist rt_pd_manager.ko
